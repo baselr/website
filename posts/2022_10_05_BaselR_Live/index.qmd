@@ -1,0 +1,36 @@
+---
+title: "BaselR live"
+author:
+  - name: Johann Laurent
+description: |
+  After a long pause we want to restart the BaselR events: some presentations, followed by a visit to a nearby pub 
+date: "2022-10-05"
+categories: [Meetup, Live Meeting, reporting, parallel execution] 
+---
+
+<!--------------- my typical setup ----------------->
+
+```{r setup, include=FALSE}
+#renv::use(lockfile = "renv.lock")
+```
+
+<!--------------- post begins here ----------------->
+
+## Topics
+
+- Reporting with `rtables`
+- Parallel execution of R jobs on HPC via `batchtools`
+
+After the presentations we can dicuss networking opportunities about R in Basel; 
+<https://github.com/baselr> could also serve as a collaboration platform. 
+
+
+## Location
+
+Peter Merian-Weg 6, Basel BS
+
+## Date
+
+Wednesday, 5 October 2022
+18:00 - 20:00 CEST
+

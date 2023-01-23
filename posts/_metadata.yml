@@ -1,0 +1,35 @@
+# options specified here will apply to all posts in this folder
+
+# Freeze computed outputs
+# never re-render during project render
+# freeze: true
+
+# re-render only when source changes
+freeze: auto  
+cache: true
+
+# Enable banner style title blocks
+background: "#eeeeee"
+title-block-banner: ../banner_baselR.png
+# Default for table of contents
+toc: true
+toc-title: Table of contents
+toc-location: left
+
+# Default knitr options
+execute:
+  echo: true
+  message: true
+  warning: true
+
+# Default fields for citation
+citation: false
+
+
+code-fold: true
+code-tools: true
+code-summary: "Show the code"
+df-print: paged
+font-family: ["Unbuntu", sans-serif]
+mainfont: "Ubuntu"
+

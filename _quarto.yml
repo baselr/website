@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "BaselR"
+  repo-url: https://github.com/baselr/website
+  open-graph: true 
+  navbar:
+    background: "#eeeeee"
+    title-block-banner: banner_baselR.png
+    right:
+      - icon: github
+        aria-label: github
+        href: https://github.com/baselr/website
+      - icon: "chat-right-text"
+        aria-label: meetup
+        href: https://www.meetup.com/baselr/

@@ -1,0 +1,18 @@
+{
+  "hash": "dd209c59c4ea2030d8c9184583f23cd9",
+  "result": {
+    "markdown": "---\ntitle: \"BaselR live\"\nauthor:\n  - name: Johann Laurent\ndescription: |\n  After a long pause we want to restart the BaselR events: some presentations, followed by a visit to a nearby pub \ndate: \"2022-10-05\"\ncategories: [Meetup, Live Meeting, reporting, parallel execution] \n---\n\n\n<!--------------- my typical setup ----------------->\n\n\n\n\n\n<!--------------- post begins here ----------------->\n\n## Topics\n\n- Reporting with `rtables`\n- Parallel execution of R jobs on HPC via `batchtools`\n\nAfter the presentations we can dicuss networking opportunities about R in Basel; \n<https://github.com/baselr> could also serve as a collaboration platform. \n\n\n## Location\n\nPeter Merian-Weg 6, Basel BS\n\n## Date\n\nWednesday, 5 October 2022\n18:00 - 20:00 CEST\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"../../site_libs/pagedtable-1.1/css/pagedtable.css\" rel=\"stylesheet\" />\n<script src=\"../../site_libs/pagedtable-1.1/js/pagedtable.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
